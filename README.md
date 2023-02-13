@@ -1,6 +1,6 @@
 # Amazon Front End Clone
 
-> Amazon front end clone website is a clone of the Amazon website that uses can see items to buy and add to the basket and if they don't want the item also they can remove it.
+> Amazon front end clone website is a clone of the Amazon website that uses can see items to buy and add to the basket the item they want and if they don't want the item also they can remove it.
 
 ## Built With
 
