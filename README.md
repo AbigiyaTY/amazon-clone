@@ -17,8 +17,8 @@
 
 To get a local copy up and running follow these simple example steps.
 1. Open terminal or cmd on you local machine and navigate to your desired directory.
-2. **Run**    *'git clone https://github.com/AbigiyaTY/amazon-front-end-clone.git'*
-3. **Run**   *'cd amazon-front-end-clone'*
+2. **Run**    *'git clone https://github.com/AbigiyaTY/amazon-clone.git'*
+3. **Run**   *'cd amazon-clone'*
 4. **Run**   *'code .'*
 
 
